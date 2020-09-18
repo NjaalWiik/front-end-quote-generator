@@ -5,14 +5,12 @@ const twitterBtn = document.getElementById('twitter');
 const newQuoteBtn = document.getElementById('new-quote');
 const spinner = document.getElementById('spinner');
 
-// Show spinner
-const loading = () => {
+const showLoadingSpinner = () => {
   spinner.hidden = false;
   quoteContainer.hidden = true;
 };
 
-// Complete loading
-const complete = () => {
+const removeLoadingSpinner = () => {
   if (!spinner.hidden) {
     quoteContainer.hidden = false;
     spinner.hidden = true;
@@ -21,7 +19,8 @@ const complete = () => {
 
 // Get quote from API
 const getQuote = async () => {
-  loading();
+  showLoadingSpinner();
+
   const proxyUrl = 'https://powerful-brook-49363.herokuapp.com/';
   const apiUrl =
     'http://api.forismatic.com/api/1.0/?method=getQuote&lang=en&format=json';
@@ -38,13 +37,12 @@ const getQuote = async () => {
 
     quoteText.innerText = data.quoteText;
 
-    complete();
+    removeLoadingSpinner();
   } catch (error) {
     getQuote();
   }
 };
 
-// Tweet quote
 const tweetQuote = () => {
   const quote = quoteText.innerText;
   const author = authorText.innerText;
@@ -52,7 +50,6 @@ const tweetQuote = () => {
   window.open(twitterUrl, '_blank');
 };
 
-// Event listeners
 newQuoteBtn.addEventListener('click', getQuote);
 twitterBtn.addEventListener('click', tweetQuote);
 
