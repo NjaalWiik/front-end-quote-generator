@@ -55,7 +55,7 @@ Here's a blank template to get started:
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/NjaalWiik/quote-generator/blob/master/images/demo.png?raw=true)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/NjaalWiik/quote-generator/master/images/demo.png?raw=true)
 
 
 
