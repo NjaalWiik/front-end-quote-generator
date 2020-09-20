@@ -124,4 +124,4 @@ Project Link: [https://github.com/NjaalWiik/quote-generator](https://github.com/
 [license-url]: https://github.com/NjaalWiik/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/njaal-wiik/
-[product-screenshot]: https://github.com/NjaalWiik/quote-generator/blob/master/img/demo.png?raw=true
+[product-screenshot]: https://github.com/NjaalWiik/quote-generator/blob/master/images/demo.png?raw=true
