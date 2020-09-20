@@ -17,13 +17,13 @@ Here's a blank template to get started:
 <br />
 <p align="center">
   <a href="https://github.com/NjaalWiik/quote-generator">
-    <img src="img/logo.png" alt="Logo" width="100" height="100">
+    <img src="images/logo.png" alt="Logo" width="100" height="100">
   </a>
 
-  <h3 align="center">TITLE</h3>
+  <h3 align="center">Quote Generator</h3>
 
   <p align="center">
-    DESCRIPTION
+    Front end project. Generates quotes with the option of twitter the quote directly.
     <br />
     <a href="https://njaalwiik.github.io/quote-generator"><strong>View Demo »</strong></a>
     <br />
@@ -55,7 +55,7 @@ Here's a blank template to get started:
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/NjaalWiik/quote-generator/blob/master/img/demo.png?raw=true)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/NjaalWiik/quote-generator/blob/master/images/demo.png?raw=true)
 
 
 
