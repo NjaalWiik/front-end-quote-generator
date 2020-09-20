@@ -2,7 +2,7 @@
 <!--
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`repo_name`
+`quote-generator`
 -->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -16,7 +16,7 @@ Here's a blank template to get started:
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/NjaalWiik/repo_name">
+  <a href="https://github.com/NjaalWiik/quote-generator">
     <img src="img/logo.png" alt="Logo" width="100" height="100">
   </a>
 
@@ -25,14 +25,14 @@ Here's a blank template to get started:
   <p align="center">
     DESCRIPTION
     <br />
-    <a href="https://njaalwiik.github.io/repo_name"><strong>View Demo »</strong></a>
+    <a href="https://njaalwiik.github.io/quote-generator"><strong>View Demo »</strong></a>
     <br />
     <br />
-    <a href="https://njaalwiik.github.io/repo_name">Explore The Docs</a>
+    <a href="https://njaalwiik.github.io/quote-generator">Explore The Docs</a>
     ·
-    <a href="https://github.com/NjaalWiik/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/NjaalWiik/quote-generator/issues">Report Bug</a>
     ·
-    <a href="https://github.com/NjaalWiik/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/NjaalWiik/quote-generator/issues">Request Feature</a>
   </p>
 </p>
 
@@ -55,16 +55,15 @@ Here's a blank template to get started:
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/NjaalWiik/repo_name/blob/master/img/demo.png?raw=true)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/NjaalWiik/quote-generator/blob/master/img/demo.png?raw=true)
 
 
 
 
 ### Built With
 
-* []()
-* []()
-* []()
+* <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
 
 <!-- USAGE EXAMPLES -->
@@ -77,7 +76,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/NjaalWiik/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/NjaalWiik/quote-generator/issues) for a list of proposed features (and known issues).
 
 
 
@@ -106,7 +105,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Njål Wiik - [@linkedin-url](https://www.linkedin.com/in/njaal-wiik/)
 
-Project Link: [https://github.com/NjaalWiik/repo_name](https://github.com/NjaalWiik/repo_name)
+Project Link: [https://github.com/NjaalWiik/quote-generator](https://github.com/NjaalWiik/quote-generator)
 
 
 
@@ -126,4 +125,4 @@ Project Link: [https://github.com/NjaalWiik/repo_name](https://github.com/NjaalW
 [license-url]: https://github.com/NjaalWiik/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/njaal-wiik/
-[product-screenshot]: https://github.com/NjaalWiik/repo_name/blob/master/img/demo.png?raw=true
+[product-screenshot]: https://github.com/NjaalWiik/quote-generator/blob/master/img/demo.png?raw=true
